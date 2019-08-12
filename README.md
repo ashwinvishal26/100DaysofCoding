@@ -33,3 +33,13 @@ Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCod
 19) [Read two inputs. 
 The first input is a digit. 
 The second input is a number. ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/5%20D%20Membership%20Digit%20in%20Number.md)
+20) [Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+If the number is a multiple of 5, it prints "Mugs".
+If the number is a multiple of 7, it prints "Pugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+If the number is a multiple of both 3 and 7, it prints "JugsPugs".
+If the number is a multiple of both 5 and 7, it prints "MugsPugs".
+If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".
+](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20R%20JugsMugsPugs.md)
+21) []()
