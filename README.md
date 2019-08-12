@@ -11,4 +11,5 @@ Cut and paste and assign it to the variable level_10_code.](https://github.com/a
 What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%202%20HugRight.md)
 6) [If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%203%20HugLeft.md)
-7) []()
+7) [Write a program that reads an integer number and prints its previous and next numbers. See the example below.
+](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%204%20Input%20print%20Previous%20and%20next.md)
