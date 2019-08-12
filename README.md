@@ -13,3 +13,4 @@ What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100Days
 What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%203%20HugLeft.md)
 7) [Write a program that reads an integer number and prints its previous and next numbers. See the example below.
 ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%204%20Input%20print%20Previous%20and%20next.md)
+8) [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%205%20Input%20print%20Apple%20sharing.md)
