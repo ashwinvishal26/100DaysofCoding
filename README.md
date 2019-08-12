@@ -56,3 +56,15 @@ Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCod
   - If the number is a multiple of both 5 and 7, it prints "MugsPugs".
   - If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".
 Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20S%20JugsMugsPugs%20Lite.md)
+23) [Write a program that receives a number on the input.
+It also should receive another value 'rev' (either 1 or 0) on the input. 
+  - If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
+  - If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
+  - If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+  - If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+        - also if number contains 3 and 5, it prints "JugsMugs"
+  - If the number is a multiple of both 3 and 7, it prints "JugsPugs".
+        - also if number contains 3 and 7, it prints "JugsPugs"
+  - If the number is a multiple of 3, 5 and 7, it prints "JugsMugPugs".
+        - also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
+Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20V%20JugsMugsPugsPlus%20Reverse.md)
