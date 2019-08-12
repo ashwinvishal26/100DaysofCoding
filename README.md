@@ -23,3 +23,5 @@ What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100Days
 15) [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20J%20If%20else%20Leap%20year.md)
 16) [Given three integers, print the least of them.
 ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%208%20If%20else%20Minimum%20of%20three%20numbers.md)
+17) [Write a program that receives a number on the input.
+If the number is a multiple of 3](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20P%20Jugs%20for%20Three.md)
