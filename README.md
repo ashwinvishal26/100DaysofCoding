@@ -68,3 +68,9 @@ It also should receive another value 'rev' (either 1 or 0) on the input.
   - If the number is a multiple of 3, 5 and 7, it prints "JugsMugPugs".
         - also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
 Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20V%20JugsMugsPugsPlus%20Reverse.md)
+24) [In mathematics, the factorial of an integer n, denoted by n! is the following product:
+n! = 1 × 2 × … × n
+For the given integer n calculate the value 
+1! + 2! + 3! + ... + n!
+Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.
+](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/4%208%20For%20Sum%20of%20factorials.md)
