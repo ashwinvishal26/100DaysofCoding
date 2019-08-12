@@ -6,4 +6,6 @@
 3) [Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.
 ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%203%20Input%20print%20Hello%20Harry.md)
 4) [After you complete the 10th level, what is the JavaScript code you got? 
-Cut and paste and assign it to the variable level_10_code.]()
+Cut and paste and assign it to the variable level_10_code.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%201%20Level10.md)
+5) [If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. 
+What is the JavaScript code you got? ]()
