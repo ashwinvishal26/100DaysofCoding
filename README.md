@@ -15,4 +15,4 @@ What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100Days
 ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%204%20Input%20print%20Previous%20and%20next.md)
 8) [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%205%20Input%20print%20Apple%20sharing.md)
 9) [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%207%20Input%20print%20Two%20timestamps.md)
-10)[]()
+10) [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%206%20Input%20print%20Hours%20and%20minutes.md)
