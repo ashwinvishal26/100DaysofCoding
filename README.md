@@ -20,3 +20,4 @@ What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100Days
 12) [Given a three-digit number. Find the sum of its digits.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/2%205%20Numbers%20Sum%20of%20digits.md)
 13) [Given an integer, print "odd" if it's odd and print "even" otherwise.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%201%20If%20else%20Odd%20or%20even.md)
 14) [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%209%20If%20else%20Days%20in%20month.md)
+15) [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20J%20If%20else%20Leap%20year.md)
