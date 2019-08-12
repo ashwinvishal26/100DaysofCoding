@@ -8,4 +8,5 @@
 4) [After you complete the 10th level, what is the JavaScript code you got? 
 Cut and paste and assign it to the variable level_10_code.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%201%20Level10.md)
 5) [If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. 
-What is the JavaScript code you got? ]()
+What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%202%20HugRight.md)
+6) []()
