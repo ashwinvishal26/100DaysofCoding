@@ -9,4 +9,6 @@
 Cut and paste and assign it to the variable level_10_code.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%201%20Level10.md)
 5) [If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%202%20HugRight.md)
-6) []()
+6) [If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10. 
+What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/0%203%20HugLeft.md)
+7) []()
