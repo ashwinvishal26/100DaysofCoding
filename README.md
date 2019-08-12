@@ -95,3 +95,17 @@ For every number in the given range,
         - also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
 Otherwise, it prints the number.
 ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20W%20JugsMugsPugs%20Range.md)
+28) [
+Write a program that receives a number on the input and prints values from 1 to that number subjected to the conditions below. 
+It also should receive another value 'rev' (either 1 or 0) on the input. 
+For every number in the given range,   
+- If the number is a multiple of 3, or it contains digit 3, it prints "Jugs".   
+- If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".  
+- If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+- If the number is a multiple of both 3 and 5, it prints "JugsMugs".        
+  - also if number contains 3 and 5, it prints "JugsMugs"  
+- If the number is a multiple of both 3 and 7, it prints "JugsPugs".        
+  - also if number contains 3 and 7, it prints "JugsPugs"
+ - If the number is a multiple of 3, 5 and 7, it prints "JugsMugsPugs".
+       - also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
+Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20X%20JugsMugsPugs%20Special.md)
