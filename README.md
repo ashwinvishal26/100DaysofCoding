@@ -30,3 +30,6 @@ If the number is a multiple of 3, it prints "Jugs".
 If the number is a multiple of 5, it prints "Mugs".
 If the number is a multiple of both 3 and 5, it prints "JugsMugs".
 Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20Q%20Mugs%20for%20Five.md)
+19) [Read two inputs. 
+The first input is a digit. 
+The second input is a number. ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/5%20D%20Membership%20Digit%20in%20Number.md)
