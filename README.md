@@ -47,3 +47,12 @@ If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".
   - If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
   - If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
 Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20U%20JugsMugsPugsPlus.md)
+22) [Write a program that receives a number on the input.
+  - If the number is a multiple of 3, it prints "Jugs". 
+  - If the number is a multiple of 5, it prints "Mugs".
+  - If the number is a multiple of 7, it prints "Pugs".
+  - If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+  - If the number is a multiple of both 3 and 7, it prints "JugsPugs".
+  - If the number is a multiple of both 5 and 7, it prints "MugsPugs".
+  - If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".
+Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20S%20JugsMugsPugs%20Lite.md)
