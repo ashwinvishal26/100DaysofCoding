@@ -74,4 +74,5 @@ For the given integer n calculate the value
 1! + 2! + 3! + ... + n!
 Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.
 ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/4%208%20For%20Sum%20of%20factorials.md)
-25) []()
+25) [For the given integer N calculate the following sum:
+1³ + 2³ + ... + N³](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/4%205%20For%20Sum%20of%20cubes.md)
