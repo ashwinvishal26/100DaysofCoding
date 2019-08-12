@@ -18,3 +18,4 @@ What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100Days
 10) [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%206%20Input%20print%20Hours%20and%20minutes.md)
 11) [Write a program to calculate the distance between two points.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/1%208%20Input%20print%20TwoPoints.md)
 12) [Given a three-digit number. Find the sum of its digits.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/2%205%20Numbers%20Sum%20of%20digits.md)
+13) []()
