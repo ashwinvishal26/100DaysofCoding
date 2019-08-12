@@ -25,3 +25,8 @@ What is the JavaScript code you got? ](https://github.com/ashwinvishal26/100Days
 ](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%208%20If%20else%20Minimum%20of%20three%20numbers.md)
 17) [Write a program that receives a number on the input.
 If the number is a multiple of 3](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20P%20Jugs%20for%20Three.md)
+18) [Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+If the number is a multiple of 5, it prints "Mugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20Q%20Mugs%20for%20Five.md)
