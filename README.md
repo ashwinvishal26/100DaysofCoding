@@ -110,3 +110,4 @@ For every number in the given range,
        also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
 Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCoding/blob/master/3%20X%20JugsMugsPugs%20Special.md)
 29) [For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/4%20A%20For%20Ladder)
+30) [](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/4%209%20For%20Lost%20card)
