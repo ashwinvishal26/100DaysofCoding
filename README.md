@@ -113,3 +113,4 @@ Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCod
 30) [There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.
 ](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/4%209%20For%20Lost%20card)
 31) [Given a list of plane IDs, write a program to print out the ID of the missing spy plane. If no plane is found missing, then print "All arrived!"](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/4%20X%20Spy%20Plane)
+32) [Strings: Slices](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/5%201%20Strings%20Slices)
