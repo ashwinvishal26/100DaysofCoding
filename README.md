@@ -120,3 +120,5 @@ Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCod
 ](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/5%20B%20Strings%20Replace%20in%20fragment)
 35) [Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.
 ](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/5%207%20Strings%20Remove%20fragment)
+36) [Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).
+](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/7%201%20Lists%20Even%20indices)
