@@ -116,3 +116,5 @@ Otherwise, it prints the number.](https://github.com/ashwinvishal26/100DaysofCod
 32) [Strings: Slices](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/5%201%20Strings%20Slices)
 33) [Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.
 ](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/5%208%20Strings%20Reverse%20fragment)
+34) [Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.
+](https://github.com/ashwinvishal26/Coding-by-Animation-Artist/blob/master/5%20B%20Strings%20Replace%20in%20fragment)
